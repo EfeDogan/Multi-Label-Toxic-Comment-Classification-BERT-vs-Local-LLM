@@ -2,7 +2,7 @@
 *.pt
 *.pth
 
-# Büyük veri setlerini engelle (Yüklediğin CSV'ler GitHub'a gitmesin)
+# Büyük veri setlerini engelle
 *.csv
 
 # Python önbellek dosyalarını engelle
