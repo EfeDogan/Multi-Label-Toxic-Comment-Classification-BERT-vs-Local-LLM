@@ -8,3 +8,8 @@
 # Python önbellek dosyalarını engelle
 __pycache__/
 *.pyc
+
+# Word ve pptx dosyalarını engelle
+*.docx
+*.pptx
+*create_presentation.py
