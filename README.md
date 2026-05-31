@@ -1,4 +1,4 @@
-```markdown
+```md
 # Multi-Label Toxic Comment Classification: Fine-Tuned DistilBERT vs. Local LLM (Llama 3.1)
 
 This repository contains an end-to-end comparative study of multi-label toxic comment classification. The project evaluates and benchmarks two distinct machine learning paradigms on a highly imbalanced dataset across 6 toxicity categories (`toxic`, `severe_toxic`, `obscene`, `threat`, `insult`, and `identity_hate`).
@@ -75,9 +75,5 @@ ollama pull llama3.1:8b
 
 
 3. Run the scripts sequentially or invoke `test_bert_ensemble.py` alongside `test_local_llm.py` using `final_200_test_cases.csv` to replicate the benchmark reports.
-
-```
-
-Bu README içeriğini kaydettikten sonra, bir önceki adımda paylaştığım o Git geçmişi temizleme (filter-branch) adımlarını uygulayıp `--force` kullanarak projeyi GitHub'a gönderirsen, depon tek kelimeyle kusursuz ve endüstri standartlarında görünecektir!
 
 ```
