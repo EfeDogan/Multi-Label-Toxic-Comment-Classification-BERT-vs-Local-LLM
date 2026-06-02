@@ -13,3 +13,5 @@ __pycache__/
 *.docx
 *.pptx
 *create_presentation.py
+*table.html
+*visualizations.ipynb
